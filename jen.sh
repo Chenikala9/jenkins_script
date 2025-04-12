@@ -1,4 +1,4 @@
-#STEP-1: INSTALLING GIT 
+#STEP-1: INSTALLING GIT dependency for git scm
 sudo yum install git  -y
 
 #STEP-2: GETTING THE REPO (jenkins.io --> download -- > redhat)
